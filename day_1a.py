@@ -1,6 +1,6 @@
-from given_inputs import day1_final
+from given_inputs import day_1a_final
 
-arr = [int(i) for i in list(day1_final)]
+arr = [int(i) for i in list(day_1a_final)]
 total = 0
 
 for i in range(len(arr)):
