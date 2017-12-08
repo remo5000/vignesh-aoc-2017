@@ -24,3 +24,146 @@ day_2b_test = '''5 9 2 8
 9 4 7 3
 3 8 6 5'''
 day_2b_final = day_2a_final
+day_4a_test = "aa bb cc dd aa"
+day_4a_final = '''una bokpr ftz ryw nau yknf fguaczl anu
+tvay wvco bcoblpt fwzg sfsys zvuqll mcbhwz ovcw fgdy
+ynsocz vid rfmsy essqt fpbjvvq sldje qfpvjvb
+yvh nxc kla vhy vkbq cxfzgr
+kljv ymobo jlvk ebst cse cmlub tavputz omoby psif
+ebfuvvu paqgzri uvvubef hglk jvn gzeln bdl ziqgpra bzcfa
+tclq ytw tclq tezcqys
+qae eofr yzwcwqf wqm ytcdnc pxnmkw
+krryi irykr ycp lbeed ykrir lhq rdd tyujwd
+hms pii lxoa dchsvz bepjwst bllxkqg hsm yrdj myzvju msh lwnnc
+yxqh hqxy xkn ljjsqjh jjljshq
+mhgsehj urbvnvf gbz ykxsd hsmgehj wtoc ujpfaos eir vifog tsy kdo
+wfruf wwijme pxbbsvf asmgs ccbn vwtc mkhah oxxfh
+lxqy jzvcvd cfgg uahxrwr dqmaqr bwzm wruxhra lrb lmk
+jspgxo yuhgni njzqtn zglkzz ybc itj orqr zgqwuoo mjagh erll srqrk
+cbrtnbx ukblei ienmdm sinzq lytyliz mma lizylty zeumwgu
+aeggz eljcry buqdeog dvjzn ilvw arz vep kxdzm mvh szkf
+imn sfty ugg flqq nydky mni bkqzlok wye lehwlmp xeyfmj
+beyv oamrpkc tebdkwv zlq jes mqvif sej qpsnmjz edvtbkw
+hylmacl wwlra xntnvg ppvb bzof cymllha
+qktxomf ngfpuz qqz malc zxuqz szg zis vzro rfpgk
+phru sxlg qzqlw uej vmd omzga jue
+drzgojf ttqdqar weikik wvrjtxi gbj jramqh nlwoj drzgojf bgabmn xqlaeun
+aiuohu pca apkmv cpa kmvpa nmdn
+gelymv eto itcnuhn ote teo
+oxiz xzio kqu wwgow
+picoyb coibpy acsw ehlirq deyz gymqvz opicyb vuet lrl
+zerg rezg miwtjgw gezr cui
+mlh qlu ktil tnlgnrk bfqbk pgg qxeyd noadmjo nonlsh eqxdy
+yqqaq yqqqa xod oss
+mkotw bznvs xowoofq sebp wsgpsmn fytcpc vvmzr vmzrv xwtxz zrvvm
+dvs twhz teqmlow oqg sjetxd aku cwl qfvrkex mndsio hfg
+itdl qwdagkk wli tdil vlgur dyl xvfm
+wlmyd dwmlx zhmqd zqmhd edzsvmz yclg umpq
+petva gazw byrca pvaet epkoqh nlp vqfl vatpe
+rykn ckr dijkme kmiedj ozlh deikmj
+kuecjh sfqv pojfzf fjopzf fjpfzo amxtc
+hri gglmial lrwbyc memgszu hir cfwlg ylcrwb
+rxrfbtv pwpra fngt auh rapwp zrruuq uah
+cevc utfd ysrfcw nnlg fnqtx aua htteunu mrjhhj
+tvnxznj mvpagt nqmxvnl mutn ntmu eybh vkqeaj frayclp
+ygktzxo lzwwy qsipu nwb jdmw pahao paow mwjd uivqbnj woap nyyogcc
+log zihz rsmx ixfr xwvd osg zxc gol ufnbig
+dogve cnb osa xbafl vefr nxlw yjgquui
+ucyl aaoae ktjvi fyps xvjhpbh iiur tuc
+pqt jasxg ehhs lzjzzzl sqmmj vwyva eklbtv hksanb fuesnd oyw fuesdn
+uankv wesi frhpau qiucu lim uzbdapf ciwjd tifbqxh tfbtsdi
+vgjd izpofu fqjpcct phuz
+cfg cfg rgahl frm emn pbfsmgy frm jemwqgn sfpm azunntj igl
+daps hpe fqg err sapd dci vbzlqx gsigq eyp rre
+iuqyqdy djprdj mgtkdxr pwmkzv wmkvzp hppisd pidphs
+rlr rrl vhevh cucprc xki urte lrr zfc xrqydzk ipjkyxj kytul
+jwbkaee rgyjl rjljbwe ppq plp pfts ijd ckpvmw mbdrqh zolt lzmr
+alw law awl wknavtb esklsbj wvssyai
+aqy ldf qdht soxkg qtfipe nsdm aqe rtlc fbqrk ius gybbhxr
+xteov wgqoqim nlz szlj oxevt xwb
+tmgdst fyn oul tsohzbq ltmxji fgops gatssx zxdzfc talb
+zkvjpu jnhtc nxs jqv pyoqz zsj ckwd xot ykai
+fxfarre yjbxvj lqfaglo mbxuv bmuxv bxumv
+yrhi uosldj hryi fwres ycygw ycvxze zevxyc iyk
+yphev xisbai xdb hzrbg ayxbhdx qnvbus pwc
+wytqraw yvurj erqckl rvrvda xsh gsd bxtm acxle gpndk
+kpvjtu vacggk oabcuoq qusf zitqpgn pbyq ocabouq ntpgizq gaiiry dke
+frz ceozajo ljltawq tjepzp iflv
+zntejm dkfgc ysno noys sony muy
+qdnyvvw oykq bnmldt zjgauw pviurd cbcnl tnkhq ebsey bccln arvwe
+iqazt xidjgom wcrdz itht lfh ifzwkj rwqxhy ervcgmt vojg lzntz ezg
+tlcxioh qvvkan wpi ody
+mhsy dwm hyms yegvvc
+hbkvi wvemc uwxgqf pwrgu wcy wxqfgu qkzppc vxcwdwd rcgp ivjd wmevc
+upc ucp cpu unmr pyod
+bqfew ebwfq paccwh phgc fchhr jrnio
+abh bjalls bdtac zzvt totdlc yptqmgu rpcin bch cqklqly
+bsnss qcsgi tegyz lqoqkpf qvatlyu ibza mzfotsk lye oqqf mnor
+lzrxca stkbn axhr wckbip bsntk ahrx
+oricdw cnpte dbz nqx xloxc bdz fdsl uyvgi nvoy ezbi
+nlcqye ofta jcvqvtg yxduyh btawc tjgvqvc tcvqjvg
+nji znctdfm kkmp pmt ikhl jjoubc xnp zdctnmf covvmsh ydh ircplcm
+yafkuk yasqsyt ytqayss nusgb ukfyka
+yogcf emg jlkd blupemf axg wihhrb ysernt yznhz
+gmc yyqtgp use lohoit
+lclwa ojjkm rxr rrx
+punyfv iphw ddbc jghx lrssszc bepexv sicpy syicp lszrscs vrqjb
+rjanra juh hljdmad scu usc baifu ijs suc bgdbbv
+ogs hehi lgiwowc wwezznc ogs lorcl naunpll wlmal ajcbj ciujw
+slenm xxod vhf amhts
+mrrduda mrrduda lwecwjv lwecwjv vvzmjla cjipv
+ixnv invx inmzz aoxghpv
+ulyvfrf zsup zfryjy xoo agdsd giw papa ljtu rzbjiq wrex
+bzpv svpuyov mklrct uzox
+fxs iypd uaqch kxazj ksjyv
+uxaommf xtq uubbfk bmlq kdhgjzg oxwpag itfij irmkjx ggod sddcyo bopn
+lch plmvfni qbjr dnu zjcod qlwax gejmyj gxjqm mfzkb gejmyj
+yoa thrfbto wposvrm amulogu mcqzfax fjquli oay
+kywj kqqhney ozuljxz wqwfte ubo mjj anhhg aphy ocfnef yhin ywnx
+vxuledm wllj obqtsrr jwll uvmelxd xvj gbwte
+hevc bitwu ydw ywd btiwu iuether gfe
+dzn ssmfpel wbbdeyt xge hrfi
+zebz ifhq euto ppfnrwc winkkj
+utuly wtdt iahpe ihtxwmh zxun bqluj hsaxgcs ytluu jlfnnuv drxlctr myhp
+kwxgy hreul rsnh wdmsx kkajywb
+bond djq kccazc zvzcie hndm myx cmhyhkc ove ord dqj
+zcong tekgn pbzs ywqgqgu eizrx ypydeku yqyjdjp dwsu zxire zcgon iggnvf
+tkioh hflkm fsjz gisjbi otikh
+ccdqqm fdabbne fyd lbyqm cyzgtd puitvjz nluf hirrpxd tgxrg vvl
+hjnygbz fnu twwbp xqw pfdlt uoalyme rsd muayeol ezcq
+kubeooi bxgwoun paogjs twvwlji opsajg higbdfi aazo evmj
+sfipxe mqbkmrn plwqd zvq nmvom fyfbs nbs qkrbmmn eym kqnrmbm
+ruhsp hurps mqws umm sphru
+ksjs pgpxh qozg enplxbn oqzg rvjnaje sjsk
+rbwbvog mhgtgg uld twrqz rbf kpop
+lwho lohw ylhd dej lydh vsfffsm
+icljgu gluijc vthqx orynv xhvqt
+biav elxkct mtaw nlafk snyr cbqdwim blim rtrqmc wze cxktel
+fgpeia ebkhga azlfsr bsj pipvwsd nry bayrjzl ftth ynr mfhd
+ymlowur nighqgk yjv pyxf nan xamb ohm jvy owrxbg icbz
+iyyt linaqu httt zyfeo udap mllq pdxo lpl djhqaou zkit llp
+dxspk yge kcqjqpz ulb hoe mfx nwayo
+rdnmmh gyqd qhxrzj dgizu lyittbv txngpdg fiu mwd ndp oks vxnxybi
+eul ztpe evnz yxx iuwon rkbbsw liy mqhxt
+qahp zwn ualtk txbt cbthj xchqy pirucp povdwq
+mqwu mwww muiafa miaafu hzripx wmww
+auw hyyi ylewfi ihva jknbrry voxzooq xaos xymv qzzjw hjc
+enpb jqa ajciy cbeopfs tqrlqj ecudb gso cyjai gxoet
+yohkjj yohjjk xapawgo rtgnjj
+lnlxxn nxllnx vhjrev uoew zts smkd kynlrg
+bkblpr vgafcy alju aiyqe eebtsyu buve hdesodl pspbohw
+aacmw qpndwo tcwsfqy qecnms wondpq sto
+wdsyxe edsxyw jnzruiw pfqdrhi
+pfgxekl vswgxhb qyn mykn jimiatq zkcz jimiatq kaexgxm mykn
+xegwn upudt dew uqjrcl abyof hbtiko wxgne sorgno etm
+xzojs zxsjo szjox gumjtwi
+gttngkk bwdgce bhuw fgo rcbf byw
+ngtzwqx ptx xodmy ctmtf oioahmm qajlhje jzilpk cvypp ijaefz
+arlx slcugvm hyuo zoptsh emyr tndx rroecp tdnx xea rtkpd
+sfckdx ktyrjju ruwjtp zhqznj vncun
+oqqh xpc itrdg gtrid hoqq tuo yijh ncp suvck jic
+brrlqu twdt urblrq twtd
+brfuh arwtkpu mzlj wdyqk
+pmag dtwnva nect azld axqrwy apgm xbv gdq ienubsy andvwt
+hqb qbh gxdl mwjn cmfsmik
+yiwma utlor qxjfjsn aomlvu gxp '''
