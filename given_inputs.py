@@ -3342,3 +3342,5 @@ mwzaxaj (59) -> csybv, febjzqn, bltmlm, dfyyjta, ljaktj, vmyda, vbcfe
 yquqk (83) -> wvjjht, edyqn, frleu, puxaz
 jaoiiae (81)
 pucsbv (39)'''
+day_7b_test = day_7a_test
+day_7b_final = day_7a_final
