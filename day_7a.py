@@ -1,9 +1,9 @@
 from given_inputs import day_7a_final
 
 def find_root(input):
-	names = [line.split(' ', 1)[0] for line in day_7a_final.splitlines()]
+	names = [line.split(' ', 1)[0] for line in input.splitlines()]
 	number_of_parents = {name: 0 for name in names}
-	for line in day_7a_final.splitlines():
+	for line in input.splitlines():
 		if '->' not in line:
 			continue
 		children = line.split('-> ')[1].split(', ')
