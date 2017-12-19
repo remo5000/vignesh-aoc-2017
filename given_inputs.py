@@ -4348,3 +4348,5 @@ s dec -996 if ln != 7289
 u inc -530 if nfo > -550
 tl dec -431 if qym >= 5171
 fe inc -998 if ec < -920'''
+day_8b_test = day_8a_test
+day_8b_final = day_8a_final
