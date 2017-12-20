@@ -19,7 +19,6 @@ while not reached_infinite_loop:
 reached_infinite_loop = False
 counter = 0
 while not reached_infinite_loop:
-    print(arr)
     distribute(arr)
     counter += 1
     if arr == repeated_state and counter != 0:
