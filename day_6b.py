@@ -1,5 +1,6 @@
 import copy
 from given_inputs import day_6b_final as input_str
+# from day_6a import max_element_index, distribute, have_seen_before, add_to_seen_before
 
 def max_element_index(arr):
     return arr.index(max(arr))
