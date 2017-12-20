@@ -2136,6 +2136,8 @@ day_5b_test = day_5a_test
 day_5b_final = day_5a_final
 day_6a_test = "0	2	7	0"
 day_6a_final = "4	1	15	12	0	9	9	5	5	8	7	3	14	5	12	3"
+day_6b_test = day_6a_test
+day_6b_final = day_6a_final
 day_7a_test = '''pbga (66)
 xhth (57)
 ebii (61)
