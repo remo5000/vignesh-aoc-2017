@@ -7,8 +7,7 @@ reached_infinite_loop = False
 add_to_seen_before(arr, previously_seen)
 
 while not reached_infinite_loop:
-    max_index = max_element_index(arr)
-    distribute(max_index, arr)
+    distribute(arr)
     if have_seen_before(arr, previously_seen):
         reached_infinite_loop = True
     else:

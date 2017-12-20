@@ -10,7 +10,8 @@ def brute_distribute(max_index, arr):
         max_val -= 1
     arr[max_index] = max_val
 
-def distribute(max_index, arr):
+def distribute(arr):
+    max_index = max_element_index(arr)
     max_val = arr[max_index]
     increment = max_val // (len(arr) - 1)
     max_val = max_val % (len(arr) - 1)
