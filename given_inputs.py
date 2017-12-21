@@ -4358,3 +4358,5 @@ day_9b_test = '''<{o"i!a,<{i<a>'''
 day_9b_final = day_9a_final
 day_10a_test = "3, 4, 1, 5"
 day_10a_final = "18,1,0,161,255,137,254,252,14,95,165,33,181,168,2,188"
+day_10b_test = ""
+day_10b_final = day_10a_final
