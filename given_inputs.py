@@ -4356,3 +4356,5 @@ day_9a_test = '''{{<a!>},{<a!>},{<a!>},{<ab>}}'''
 day_9a_final = open("day_9a_final_input.txt").read()
 day_9b_test = '''<{o"i!a,<{i<a>'''
 day_9b_final = day_9a_final
+day_10a_test = "3, 4, 1, 5"
+day_10a_final = "18,1,0,161,255,137,254,252,14,95,165,33,181,168,2,188"
