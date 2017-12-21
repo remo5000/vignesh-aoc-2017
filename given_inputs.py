@@ -4352,3 +4352,5 @@ tl dec -431 if qym >= 5171
 fe inc -998 if ec < -920'''
 day_8b_test = day_8a_test
 day_8b_final = day_8a_final
+day_9a_test = '''{{<a!>},{<a!>},{<a!>},{<ab>}}'''
+day_9a_final = open("day_9a_final_input.txt").read()
