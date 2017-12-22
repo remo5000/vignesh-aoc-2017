@@ -33,7 +33,9 @@ def total_distance(dir_counts):
 
 dir_counts = {}
 for direction in input_str.split(","):
-    dir_counts[direction] = get_dir_count(direction) + 1
+    if direction not in dir_counts:
+        dir_counts[direction] = 0
+    dir_counts[direction] += 1
 remove_opp_dir(dir_counts)
 merge_directions(dir_counts)
 print(total_distance(dir_counts))
