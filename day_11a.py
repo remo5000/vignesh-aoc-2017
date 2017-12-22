@@ -33,9 +33,6 @@ for direction in input_str.split(","):
     if direction not in dir_counts:
         dir_counts[direction] = 0
     dir_counts[direction] += 1
-print("init", dir_counts)
 remove_opp_dir()
-print("removed opp", dir_counts)
 merge_directions()
-print("merged", dir_counts)
 print(sum(dir_counts.values()))
