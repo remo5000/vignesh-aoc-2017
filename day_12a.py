@@ -1,4 +1,4 @@
-from given_inputs import day_12a_test as input_str
+from given_inputs import day_12a_final as input_str
 from functools import reduce
 
 def connected_programs_helper(program_ls, prev_seen):
