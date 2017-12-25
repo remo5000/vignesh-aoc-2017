@@ -6,9 +6,9 @@ def connected_programs_helper(program_ls, prev_seen, register):
         return set()
     else:
         prev_seen = prev_seen | set(program_ls)
-        connected_programs = map(lambda x: register[x], program_ls)
-        connected_programs = reduce(lambda a, x: a + x, connected_programs, [])
-        unseen = list(set(connected_programs) - prev_seen)
+        directly_connected = map(lambda x: register[x], program_ls)
+        directly_connected = reduce(lambda a, x: a + x, directly_connected, [])
+        unseen = list(set(directly_connected) - prev_seen)
         return prev_seen | connected_programs_helper(unseen, prev_seen, register)
 
 def connected_programs(first_program, register):
