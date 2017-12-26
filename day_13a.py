@@ -1,11 +1,11 @@
-from given_inputs import day_13a_final as input_str
+from given_inputs import day_13a_test as input_str
 
 def caught(depth, rng):
-    scanner_depth = depth % (rng + 2)
-    max_rng_index = rng - 1
-    if scanner_depth > max_rng_index:
-        scanner_depth = max_rng_index - (scanner_depth % max_rng_index)
-    return scanner_depth == 0
+    depth += 1
+    scanner_depth = (depth % ((rng * 2) - 1))
+    if scanner_depth > rng:
+        scanner_depth = rng - (scanner_depth % rng)
+    return scanner_depth == 1
 
 lines = input_str.splitlines()
 depth_range_map = {}
