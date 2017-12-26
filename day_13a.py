@@ -8,14 +8,10 @@ def caught(depth, rng):
     return scanner_depth == 1
 
 lines = input_str.splitlines()
-depth_range_map = {}
+severity = 0
 for line in input_str.splitlines():
     depth = int(line.split(": ")[0])
-    rng = int(line.split(": ")[1])
-    depth_range_map[depth] = rng
-
-severity = 0
-for depth, scan_range in depth_range_map.items():
+    scan_range = int(line.split(": ")[1])
     if caught(depth, scan_range):
         severity += (depth * scan_range)
 print(severity)
